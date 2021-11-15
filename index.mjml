@@ -1,0 +1,321 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&family=Rubik:wght@500;700" />
+    <mj-font name="Crimson Text" href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Roboto:ital,wght@0,300;0,400;0,500;1,400;1,500&display=swap" />
+    <mj-attributes>
+      <mj-all font-family="Roboto, sans-serif" />
+    </mj-attributes>
+    <mj-style>
+    .btn-black{
+      color:#000;
+    }
+    .btn-white{
+      color:#fff;
+    }
+    .side_borders{
+      border-left:1px solid #777;
+      border-right:1px solid #777;
+      padding: 0px 8px 0px 8px;
+    }
+    .social__platform{
+      text-align:center !important;
+    }
+    @media (max-width:480px) {
+        .afterpay_text{
+          padding:19px 0 0 0 !important;
+        }
+        .afterpay_subtext{
+          padding:0 0 20px 0 !important;
+        }
+        .afterpay_subtext div{
+          font-size:11.5px !important;
+        }
+      }
+      @media (max-width:350px) {
+        .afterpay_text{
+          padding:15px 0 0 0 !important;
+        }
+        .afterpay_subtext{
+          padding:0 0 13px 0 !important;
+        }
+        .afterpay_subtext div{
+          font-size:11.5px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="600px">
+
+    <!-- Company Header -->
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column width="580px">
+        <mj-image width="350px" padding="0" align="center" src="./assets/img/com_logo.png" alt="" />
+    </mj-section>
+
+    <!-- Nav bar -->
+    <!-- fix font in nav bar -->
+
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column width="20%">
+        <mj-text font-size="18px" align="center" text-transform="uppercase">
+          WOMEN
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-text font-size="18px" align="center" text-transform="uppercase">
+          men
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-text font-size="18px" align="center">
+          BEAUTY
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-text font-size="18px" align="center">
+          HOME
+        </mj-text>
+      </mj-column>
+      <mj-column width="20%">
+        <mj-text font-size="18px" align="center">
+          SALE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="8px" background-color="black">
+      <mj-column width="580px">
+        <mj-text color="#ffffff" font-size="23px"
+        text-transform="uppercase" align="center">
+          Free Shipping On Orders Over $99
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <mj-section padding="0" background-color="#e7e7e7">
+    <mj-column width="470px">
+      <mj-text padding="10px 0 0" text-transform="uppercase" align="center" font-size="35px" font-style="italic">
+        JUST DROPPED FOR HIM
+      </mj-text>
+      <mj-text padding="0" font-family="Crimson Text" text-transform="uppercase" font-size="54px" align="center">
+        Canada Goose
+      </mj-text>
+      <mj-text font-size="20px" line-height="25px" align="center">
+        Embrace the great outdoors in expertly-crafted cold weather staples.
+      </mj-text>
+      <!-- <mj-button href="google.com" padding="0" width="0" background-color="none" border-bottom="2px solid #000">
+        50% off Shoes
+      </mj-button> -->
+      <mj-text font-size="21px" font-weight="500" align="center" text-transform="uppercase">
+          <a href="#" class="btn-black">Shop Now</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <!-- iMAGE Of Guy -->
+
+  <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image width="600px" padding="0" align="center" src="./assets/img/model_no-1.jpg" alt="" />
+        </mj-column>
+    </mj-section>
+
+  <mj-section background-color="#ffffff">
+    <mj-column>
+      <mj-text font-family="Crimson Text" text-transform="uppercase" font-size="54px" padding="0" align="center">
+        NEW Arival
+      </mj-text>
+      <mj-text font-style="italic" font-size="35px" padding="0" align="center">
+        For Her
+      </mj-text>
+      <mj-text font-family="Crimson Text" text-transform="uppercase" font-size="34px"  padding="40px 0 0" align="center">
+        Knititude
+      </mj-text>
+      <mj-text font-size="16px" line-height="25px" align="center">
+        Elevated everyday styles featuring oh-so-soft knits.
+      </mj-text>
+      <mj-text font-size="21px" font-weight="500" align="center" text-transform="uppercase">
+          <a href="#" class="btn-black">Shop Now</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  
+  <!-- iMAGE Of girl -->
+  <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image width="400px" padding="0 0 20px" align="center" src="./assets/img/model_no-2.png" alt="" />
+        </mj-column>
+    </mj-section>
+
+  <mj-section background-color="#ffffff">
+    <mj-column>
+      <mj-text font-family="Crimson Text" text-transform="uppercase" font-size="34px" align="center">
+        Nine West
+      </mj-text>
+      <mj-text font-size="19px" align="center">
+        From statment pumps to slick boots.
+      </mj-text>
+      <mj-text font-size="21px" font-weight="500" align="center" text-transform="uppercase">
+          <a href="#" class="btn-black">Shop Now</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  
+  <!-- iMAGE Of Shoe -->
+  <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image width="400px" padding="0 0 40px" align="center" src="./assets/img/black_boots1.png" alt="" />
+      </mj-column>
+  </mj-section>
+
+  <mj-section padding="5px" background-color="#ffffff">
+    <mj-column>
+      <mj-text font-size="35px"text-transform="uppercase" align="center">
+        The Home Edit:
+      </mj-text>
+      <mj-text font-family="Crimson Text" text-transform="uppercase" font-size="38px" padding="0" align="center">
+        Kate spade new york home
+      </mj-text>
+      <mj-text font-size="20px" line-height="23px" align="center">
+        From playful cherry print tea kettles and hors d'oeuvres trays to polka dotted tidbit plates, bring home a touch of whimsy.
+      </mj-text>
+      <mj-text font-size="21px" font-weight="500" align="center" text-transform="uppercase">
+          <a href="#" class="btn-black">Shop Now</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <!-- Grapes Utensils -->
+  <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image width="600px" padding="0" align="center" src="./assets/img/cherry_plates.jpg" alt="" />
+      </mj-column>
+  </mj-section>
+
+<!-- Mark Downs -->
+  <mj-section padding="60px 10px 70px 10px" background-color="#ffffff">
+    <mj-column width="90%" background-color="#5ac2ab">
+        <mj-text  font-size="30px" text-transform="uppercase" align="center" padding="20px 0 0 0" color="#ffffff">
+          Up to <b>70</b>%  Off
+        </mj-text>
+        <mj-text font-family="Crimson Text" padding="5px 0 10px" text-transform="uppercase" font-size="50px" color="#ffffff" align="center">
+          New markdowns
+        </mj-text>
+        <mj-text font-size="19px"  padding="0 60px" font-weight="300" color="#ffffff" align="center">
+          Hundreds of new items added to sale, hurry before they're all gone!
+        </mj-text>
+        </mj-column>
+      <mj-group width="90%" background-color="#5ac2ab">
+          <mj-column padding="10px">
+            <mj-text font-size="21px" align="center" text-transform="uppercase">
+                <a href="#" class="btn-white">Women's sale</a>
+            </mj-text>
+          </mj-column>
+          <mj-column padding="10px">
+            <mj-text font-size="21px" align="center" text-transform="uppercase">
+                <a href="#" class="btn-white">Men's sale</a>
+            </mj-text>
+          </mj-column>
+      </mj-group>
+  </mj-section>
+
+  <!-- Afterpay -->
+  <mj-section background-color="#ffffff">
+  <mj-group width="500px">
+    
+      <mj-column background-color="#000000" border-radius="50px 0 0 50px" width="30%">
+        <mj-image width="180px" height="63px" padding="0" align="center" src="./assets/img/afterpay_logo_mint.png" alt="" />
+      </mj-column>
+      <mj-column width="70%" background-color="black" border-radius="0px 50px 50px 0px ">
+        <mj-text css-class="afterpay_text" color="#b1fbe3" font-weight="600" text-transform="uppercase" padding="19px 0 0 0">
+          Shop now pay later!
+        </mj-text>
+        <mj-text font-weight="300" color="#b1fbe3" padding="0 0 18px 0" css-class="afterpay_subtext">
+          Split your purchase into 4 interest-free payments.
+        </mj-text>
+      </mj-column>
+      </mj-group>
+  </mj-section>
+
+  <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text font-size="24px" align="center">
+          You may also love...
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+  <!-- Shoe Collection -->
+  <mj-section padding="0" background-color="#ffffff">
+      <mj-column>
+        <mj-image width="600px" padding="0" align="center" src="./assets/img/shoe_collection.png" alt="" />
+      </mj-column>
+  </mj-section>
+
+  <!-- horizontal line -->
+  <mj-section padding="20px 0px 0px 0px" background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#000000" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- Social Buttons -->
+    <mj-section background-color="#ffffff">
+      <mj-group width="240px" css-class="social__platform">
+        <mj-column width="30%">
+          <mj-image padding="0" width="30px" src="./assets/img/facebook_icon.png" />
+        </mj-column>
+        <mj-column width="30%">
+            <mj-image padding="0" width="30px" src="./assets/img/instagram_icon.png" />
+        </mj-column>
+        <mj-column width="30%">
+            <mj-image padding="0" width="30px" src="./assets/img/twitter_icon.png" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  
+    <!-- Footer -->
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column padding="0">
+        <mj-text font-size="11px" align="center">
+          To ensure delivery to your inbox, please add <a href="#">info@email.lordandtaylor.com</a> to your address book/contacts.
+        </mj-text>
+        <mj-text font-size="11px" align="center" line-height="15px">
+          Receiving Free Shipping with your purchase over $99 is easy.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+          Receiving Free Shipping with your purchase over $99
+          qui officia deserunt mollit anim id est laborum.  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <mj-section padding="30px 0px 0px 0px" background-color="#ffffff">
+    <mj-column width="80px">
+      <mj-text font-size="11px" align="center" padding="5px 0px">
+          <a href="#" class="btn-black">Privacy policy</a>
+    </mj-column>
+    <mj-column width="120px">
+      <mj-text font-size="11px" align="center" padding="5px 0px">
+          <a href="#" class="btn-black side_borders">Terms & Conditions</a>
+    </mj-column>
+    <mj-column width="80px">
+      <mj-text font-size="11px" align="center" padding="5px 0px">
+          <a href="#" class="btn-black">Unsubscribe</a>
+    </mj-column>
+  </mj-section>
+
+    <mj-section padding="8px 0 15px 0" background-color="#ffffff">
+      <mj-column>
+        <mj-text font-size="11px" padding="2px" align="center">
+          Lord & Taylor
+        </mj-text>
+        <mj-text font-size="11px" padding="2px" align="center">
+          275 Madison Avenue
+        </mj-text>
+        <mj-text font-size="11px" padding="2px" align="center">
+         New York, NY 10016
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
+
+
